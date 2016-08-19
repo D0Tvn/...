@@ -1,7 +1,7 @@
 {
 	"children": [
 		{
-			"id": "01M",
+			"id": "010",
 			"sex": "M",
 			"name": "Lương",
 			"surname": "Công Nghĩa",
@@ -9,7 +9,7 @@
 			"photo": "//cdn.huu.vn/lcn.jpg",
 			"spouse": [
 				{
-					"id": "01F",
+					"id": "011",
 					"sex": "F",
 					"name": "Huỳnh",
 					"surname": "Thị Lý",
@@ -20,7 +20,7 @@
 			],
 			"children": [
 				{
-					"id": "021M",
+					"id": "0210",
 					"sex": "M",
 					"name": "Lương",
 					"surname": "Công Khanh",
@@ -28,7 +28,7 @@
 					"photo": "//cdn.huu.vn/images/M.png",
 					"spouse": [
 						{
-							"id": "021F",
+							"id": "0211",
 							"sex": "F",
 							"name": ".",
 							"surname": "..",
@@ -39,7 +39,7 @@
 					],
 					"children": [
 						{
-							"id": "101M",
+							"id": "1010",
 							"sex": "M",
 							"name": ".",
 							"surname": "..",
@@ -47,7 +47,7 @@
 							"photo": "//cdn.huu.vn/images/M.png",
 							"spouse": [
 								{
-									"id": "101F",
+									"id": "1011",
 									"sex": "F",
 									"name": ".",
 									"surname": "..",
@@ -58,7 +58,7 @@
 							],
 							"children": [
 								{
-									"id": "111M",
+									"id": "1110",
 									"sex": "M",
 									"name": "Lương",
 									"surname": "Hòa",
@@ -66,7 +66,7 @@
 									"photo": "//cdn.huu.vn/images/M.png",
 									"spouse": [
 										{
-											"id": "111F",
+											"id": "1111",
 											"sex": "F",
 											"name": ".",
 											"surname": "..",
@@ -80,11 +80,11 @@
 								
 								
 							]
-						}					
+						}			
 					]
 				},
 				{
-					"id": "022M",
+					"id": "0220",
 					"sex": "M",
 					"name": "Lương",
 					"surname": "Chiếm Khôi",
@@ -92,7 +92,7 @@
 					"photo": "//cdn.huu.vn/images/M.png",
 					"spouse": [
 						{
-							"id": "022F",
+							"id": "0221",
 							"sex": "F",
 							"name": ".",
 							"surname": "..",
