@@ -18,15 +18,15 @@
 									"children": [
 										{
 											"id":"13010","sex":"M","name":"Lương","surname":"Phương","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-											"spouse": [{"id":"13011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+											"spouse": [{"id":"13011","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 										},
 										{
 											"id":"13020","sex":"M","name":"Lương","surname":"Huân","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
 											"spouse": [{"id":"13021","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}],
 											"children": [
 												{
-													"id":"14010","sex":"M","name":"Lương","surname":"Hiển","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-													"spouse": [{"id":"14011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+													"id":"14010","sex":"M","name":"Lương","surname":"Hiển","id_family":"178","photo":"//cdn.huu.vn/images/M.png"
+													//"spouse": [{"id":"14011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 												}
 											]
 										}
@@ -40,7 +40,29 @@
 							"children": [
 								{
 									"id":"12010","sex":"M","name":"Lương","surname":"Phát","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-									"spouse": [{"id":"12011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+									"spouse": [{"id":"12011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}],
+									"children": [
+										{
+											"id":"13010","sex":"M","name":"Lương","surname":"Minh","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
+											"spouse": [{"id":"13011","sex":"F","name":".","surname":"..","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}],
+											"children": [
+												{
+													"id":"14010","sex":"M","name":"Lương","surname":"Cương","id_family":"178","photo":"//cdn.huu.vn/images/M.png"
+													//"spouse": [{"id":"14011","sex":"F","name":".","surname":"..","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+												}
+											]
+										},
+										{
+											"id":"13020","sex":"M","name":"Lương","surname":"Đạo","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
+											"spouse": [{"id":"13021","sex":"F","name":".","surname":"..","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}],
+											"children": [
+												{
+													"id":"14010","sex":"M","name":"Lương","surname":"Hiếu","id_family":"178","photo":"//cdn.huu.vn/images/M.png"
+													//"spouse": [{"id":"14011","sex":"F","name":".","surname":"..","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+												}
+											]
+										}
+									]
 								}
 							]
 						},
@@ -50,15 +72,15 @@
 							"children": [
 								{
 									"id":"12010","sex":"M","name":"Lương","surname":"Hoa","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-									"spouse": [{"id":"12011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+									"spouse": [{"id":"12011","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 								},
 								{
 									"id":"12020","sex":"M","name":"Lương","surname":"Thoại","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
 									"spouse": [{"id":"12021","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}],
 									"children": [
 										{
-											"id":"13010","sex":"M","name":"Lương","surname":"Bình","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-											"spouse": [{"id":"13011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+											"id":"13010","sex":"M","name":"Lương","surname":"Bình","id_family":"178","photo":"//cdn.huu.vn/images/M.png"
+											//"spouse": [{"id":"13011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 										}
 									]
 								},
@@ -85,8 +107,8 @@
 													"spouse": [{"id":"14011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}],
 													"children": [
 														{
-															"id":"15010","sex":"M","name":"Lương","surname":"Khang","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-															"spouse": [{"id":"15011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+															"id":"15010","sex":"M","name":"Lương","surname":"Khang","id_family":"178","photo":"//cdn.huu.vn/images/M.png"
+															//"spouse": [{"id":"15011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 														}
 													]
 												}
@@ -101,8 +123,8 @@
 													"spouse": [{"id":"14011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}],
 													"children": [
 														{
-															"id":"15010","sex":"M","name":"Lương","surname":"Hải","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-															"spouse": [{"id":"15011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+															"id":"15010","sex":"M","name":"Lương","surname":"Hải","id_family":"178","photo":"//cdn.huu.vn/images/M.png"
+															//"spouse": [{"id":"15011","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 														}
 													]
 												}
@@ -130,19 +152,19 @@
 								},
 								{
 									"id":"12020","sex":"M","name":"Lương","surname":"Hữu Kiệt","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-									"spouse": [{"id":"12021","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+									"spouse": [{"id":"12021","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 								},
 								{
 									"id":"12030","sex":"M","name":"Lương","surname":"Hữu Lực","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-									"spouse": [{"id":"12031","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+									"spouse": [{"id":"12031","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 								},
 								{
 									"id":"12040","sex":"M","name":"Lương","surname":"Hữu Lượng","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-									"spouse": [{"id":"12041","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+									"spouse": [{"id":"12041","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 								},
 								{
 									"id":"12050","sex":"M","name":"Lương","surname":"Hữu Lượng Em","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-									"spouse": [{"id":"12051","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+									"spouse": [{"id":"12051","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 								},
 								{
 									"id":"12060","sex":"M","name":"Lương","surname":"Hữu  Minh","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
@@ -166,7 +188,6 @@
 											"children": [
 												{
 													"id":"14010","sex":"F","name":"Lương","surname":"Mỹ Quý","id_family":"178","photo":"//cdn.huu.vn/images/F.png"
-													
 												},
 												{
 													"id":"14020","sex":"F","name":"Lương","surname":"Thùy An","id_family":"178","photo":"//cdn.huu.vn/images/F.png"
@@ -226,15 +247,15 @@
 				},
 				{
 					"id":"10020","sex":"M","name":"Lương","surname":"Hữu Kẻ","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-					"spouse": [{"id":"10021","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+					"spouse": [{"id":"10021","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 				},
 				{
 					"id":"10030","sex":"M","name":"Lương","surname":"Hữu Quang","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-					"spouse": [{"id":"10021","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+					"spouse": [{"id":"10021","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 				},
 				{
 					"id":"10040","sex":"M","name":"Lương","surname":"Hữu Du","id_family":"178","photo":"//cdn.huu.vn/images/M.png",
-					"spouse": [{"id":"10021","sex":"F","name":"","surname":"","locked":"N","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
+					"spouse": [{"id":"10021","sex":"F","name":"","surname":"","locked":"Y","photo":"//cdn.huu.vn/images/F.png","id_family":"178"}]
 				}
 			]
 		}
